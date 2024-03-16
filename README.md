@@ -8,7 +8,7 @@ Rootless implementation of LSPosed framework, integrating Xposed API by insertin
 ## Supported Versions
 
 - Min: Android 9
-- Max: whatever [LSPosed_mod](ttps://github.com/mywalkb/LSPosed_mod) says
+- Max: whatever [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) says
 
 ## Usage
 
